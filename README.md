@@ -2,8 +2,14 @@
 ## 2021-07-15
 1. javascript 다시 공부중 2일차 (ES6 포함)<br>
 2. SQL ( MSSQL 제외 ) - LAG() 함수와 LEAD() 함수 정리
+3. foreach & for in & for of & reduce
+4. 
+    for (let i = 0; i < arr.length; i++) {
 
-99. TODO : foreach & for in & for of & reduce
+    대신에 아래처럼 쓰자! 루프가 반복될때마다 arr.length에 접근하므로 , for문 밖에서 태우고 변수에 담아줍시다
+
+    let l = arr.length;
+    for (let i = 0; i < l; i++) {
 -----------------------------------------------------------------------------------------
 ## 2021-07-14
 1.  TODO : 프로젝트 코드 리팩토링하기.
