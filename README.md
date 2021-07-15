@@ -1,8 +1,9 @@
 # TIL
 ## 2021-07-15
 1. javascript 다시 공부중 2일차 (ES6 포함)<br>
-2. TODO : foreach & for in & for of & reduce
+2. SQL ( MSSQL 제외 ) - LAG() 함수와 LEAD() 함수 정리
 
+99. TODO : foreach & for in & for of & reduce
 -----------------------------------------------------------------------------------------
 ## 2021-07-14
 1.  TODO : 프로젝트 코드 리팩토링하기.
