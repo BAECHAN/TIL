@@ -5,7 +5,7 @@
 2. excel loader 정리 -> 예전에 해두었던 소스가 안되서 확인해보니
 <script type="text/javascript"src="http://malsup.github.com/jquery.form.js"></script>
 위의 src가 404에러가 뜸 (아마 사이트가 없어진게 아닌가 싶은데)
--> 그래서 수정하여 다시 올려둠
+-> 그래서 수정하여 다시 올려둠 (ajaxSubmit -> ajax)
 
 
 -----------------------------------------------------------------------------------------
