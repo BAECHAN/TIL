@@ -9,7 +9,7 @@ TODO: 지도 관련 사이트 만들어보기, java memory 관련
 <strong>!important</strong>를 추가해줌.
 3. transition은 svg circle 태그의 stroke-dashoffset에도 적용할 수 있음
 4. vanilla js로 stroke-dashoffset값 변경해줄때 <strong>camelcase</strong>로 작성하는것 잊지말 것!!
-
+5. svg_circle.html 파일 참고( 202012 toyproject 폴더에 있음 )
 -----------------------------------------------------------------------------------------
 ## 2021-07-27
 내용 지움
