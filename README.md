@@ -139,7 +139,7 @@ listagg
 1. git add .
 2. git commit -m "message"
 3. git push
-<<<<<<< HEAD
+
 <hr>
 <h2>git md파일 image 추가</h2>
 1. Issues 탭 클릭
@@ -147,5 +147,4 @@ listagg
 3. "Attach files by dragging & dropping, selecting or pasting them." 클릭
 4. 파일 선택
 5. Write Editor 영역에 변환
-=======
->>>>>>> 4523098b971db78cdce4b8fadd3784df8076399a
+
