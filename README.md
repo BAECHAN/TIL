@@ -14,6 +14,8 @@ TODO: 지도 관련 사이트 만들어보기, java memory 관련
 캐시 때문에 인식하지 못하는 상황에서 모든 사용자들에게 캐시를 제거해달라고 요청할 수 없으므로 
 <strong>정적인 리소스 파일들을 호출할 때 쿼리스트링 방식으로 리소스 파일들을 호출하면 파일을 다르게 인식하여 기존의 캐시를 활용하지 않고 새로 요청하여 화면을 보여준다.</strong>
 
+![111](https://user-images.githubusercontent.com/54573684/136133296-38e645e7-e911-4e0c-9e69-e6dd2873ff31.PNG)
+
 -----------------------------------------------------------------------------------------
 ## 2021-08-23
 1. 데이터 작업 정리,문서화 (개인)
@@ -137,6 +139,7 @@ listagg
 1. git add .
 2. git commit -m "message"
 3. git push
+<<<<<<< HEAD
 <hr>
 <h2>git md파일 image 추가</h2>
 1. Issues 탭 클릭
@@ -144,3 +147,5 @@ listagg
 3. "Attach files by dragging & dropping, selecting or pasting them." 클릭
 4. 파일 선택
 5. Write Editor 영역에 변환
+=======
+>>>>>>> 4523098b971db78cdce4b8fadd3784df8076399a
