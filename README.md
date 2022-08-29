@@ -12,6 +12,8 @@ TODO: 지도 관련 사이트 만들어보기, java memory 관련, storybook
 
 ## 2022-08-29
 lego-app 배너 닫기 처리 
+배너닫기할 때 rotate 90도 넘어주면서 active하도록
+닫을 땐 그냥 닫기랑 "하루 동안 열지 않기" 체크 후 닫기
 
 ---
 
